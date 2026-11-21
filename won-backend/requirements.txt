@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+openai
+# anthropic   # only if WON_AI_PROVIDER=anthropic
